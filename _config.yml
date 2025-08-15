@@ -1,7 +1,7 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: ShaQuita Merritt
+email: m.shaquita93@gmail.com
+url: https://Qmerritt93.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -25,15 +25,15 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: FDF0D5  
+  primary-rgb: "120, 0, 0" 
+  secondary:  C1121F
+  secondary-dark: 003049
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: ShaQuita Merritt
+  location: Titusville Florida
   social: Around the Web
   credits: Credits
 
